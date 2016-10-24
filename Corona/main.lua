@@ -6,4 +6,4 @@
 
 -- Your code here
 
-print("5")
+print("6")
