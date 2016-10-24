@@ -6,4 +6,4 @@
 
 -- Your code here
 
-print("1222 mama")
+print("122213213122 mama")
